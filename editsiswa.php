@@ -1,6 +1,11 @@
 <?php
 
+<<<<<<< HEAD
 //komentar dari lokal
+=======
+
+//belajar edit
+>>>>>>> 2390e9d0ab801a77ea9a92a3dae74d259fdbb851
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 //require_once('lib/m_nationality.php');
